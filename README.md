@@ -1,5 +1,6 @@
 # AI
-Artificial Intelligence Assignments
+Artificial Intelligence - Genetic Algorithms Travelling Salesman Problem (TSP)
+
 - To clone this project simply press code -> copy the link -> open your directory in the terminal where you want the file and type:
 'git clone directory-link'
 
